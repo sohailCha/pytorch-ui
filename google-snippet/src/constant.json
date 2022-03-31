@@ -1,0 +1,31 @@
+{
+    "C#": {
+        "info1": "For more information, see Setting Up a C# Development Environment.",
+        "command1": "Install-Package Google.Apis"
+    },
+    "Go": {
+        "info1": "For more information, see Setting Up a Go Development Environment.",
+        "command1": "go get cloud.google.com/go/speech/apiv1"
+    },
+    "Java": {
+        "info1": "For more information, see Setting Up a Java Development Environment.",
+        "command1": "Install-Package Google.Apis"
+    },
+    "Node.js": {
+        "info1": "For more information, see Setting Up a Node.js Development Environment.",
+        "command1": "npm install --save @google-cloud/speech"
+    },
+    "PHP": {
+        "info1": "For more information, see Using PHP on Google Cloud.",
+        "command": "composer require google/apiclient"
+    },
+    "Python": {
+        "info1": "For more information, see Setting Up a Python Development Environment.",
+        "command": "pip install --upgrade google-cloud-speech"
+    },
+    "Ruby": {
+        "info1": "For more information, see Setting Up a Ruby Development Environment.",
+        "command": "gem install google-api-client"
+    }
+
+}
